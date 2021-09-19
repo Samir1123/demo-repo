@@ -1,7 +1,12 @@
-#Description 12@#
+# Description 12@#
 
 Some description!
 
-##Subheader
+## Subheader
 
 Watch tutorial on YouTube.
+
+
+## local development
+
+1. Open index.html in browser.
